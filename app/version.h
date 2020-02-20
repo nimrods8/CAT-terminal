@@ -1,5 +1,5 @@
 /**
- * @brief   This file is used to control the release verions
+ * @brief   This file is used to control the release versions
  *
  */
 
